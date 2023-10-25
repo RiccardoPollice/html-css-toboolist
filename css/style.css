@@ -1,7 +1,7 @@
 *{
     margin:0;
     padding:0;
-}
+    }
 
 #logo-toboolist{
    width: 150px; 
@@ -25,15 +25,107 @@
     padding: 8px;
     }
     .rettangolo-3{
-        
+    width: 100px;
+    height: 60px;
+    border-radius: 10%;
+    background-color: rgb(116, 204, 204);
+    font-size: small;
+    line-height: 60px;
+    margin: 10px;
+    padding: 5px;
     }
-
-    .border-bottom{
-        border-bottom: 1px solid darkgray;
+    .rettangolo-4{
+        width: 100px;
+        height: 60px;
+        border-radius: 10%;
+        background-color: purple;
+        font-size: small;
+        color: white;
+        line-height: 60px;
+        margin: 10px;
+        padding: 5px;
+   }
+    .rettangolo-5{
+        width: 100px;
+        height: 60px;
+        border-radius: 10%;
+        background-color: rgb(20, 156, 104);
+        font-size: small;
+        color:white;
+        line-height: 60px;
+        margin: 10px;
+        padding: 5px;
     }
-    .color-green{
+    .rettangolo-6{
+        width: 100px;
+        height: 60px;
+        border-radius: 10%;
+        background-color: orange;
+        font-size: small;
+        color:white;
+        line-height: 60px;
+        margin: 10px;
+        padding: 5px;
+    }
+    .rettangolo-7{
+        width: 100px;
+        height: 60px;
+        border-radius: 10%;
+        background-color: rgb(250, 119, 141);
+        font-size: small;
+        color:white;
+        line-height: 60px;
+        margin: 10px;
+        padding: 5px;
+    }
+    .rettangolo-8{
+        width: 100px;
+        height: 60px;
+        border-radius: 10%;
+        background-color: rgba(5, 160, 5, 0.481);
+        font-size: small;
+        color:white;
+        line-height: 60px;
+        margin: 10px;
+        padding: 5px;
+    }
+        .color-green{
         color:rgb(17, 177, 134);
     }
     .color-red{
         color:red;
     }
+    .centering{
+        margin-top: 50px;
+        margin-left: 200px;
+        margin-bottom: 150px;
+        margin-right: 200px;
+        background-color: white;
+    }
+        body{
+        background-color: #F6F8F9;
+    }
+    .border-bottom{
+       border-bottom: 1px solid darkgray;
+    }
+      header{
+        width: 1000px;
+        background-color: white;
+    }
+    .p-10{
+        padding: 10px;
+    }
+    .margin-main{
+        margin: 15% 20%;
+        padding: 10% 15%;
+    }
+    .botton-style{
+        border-radius: 5px;
+        border: 1px solid black;
+        padding: 2px;
+    }
+    .button-style:hover{
+        background-color: #14AAF5;
+    }
+  
+      
